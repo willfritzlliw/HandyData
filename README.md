@@ -1,2 +1,2 @@
 # HandyData
- A collection of prefilled data structures saved for quick reuse.
+ A collection of prefilled python data structures saved for quick reuse.
