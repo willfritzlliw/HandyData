@@ -37,3 +37,5 @@ animals = ['Aardvark', 'Alligator', 'Alpaca', 'Anaconda', 'Ant', 'Anteater', 'An
         'Hare', 'Hawk', 'Hippopotamus', 'Horse', 'Hummingbird', 'HumpbackWhale', 'Husky', 'Iguana', 'Impala', 'Kangaroo', 'Lemur', 'Leopard', 'Lion', 'Lizard', 'Llama', 'Lobster', 'Margay', 'Monitorlizard', 'Monkey', 'Moose', 
         'Mosquito', 'Moth', 'MountainZebra', 'Mouse', 'Mule', 'Sloth', 'Snail', 'Snake', 'Spider', 'Tiger', 'Whale', 'Wolf', 'Wombat', 'Zebra', 'Octopus', 'Orca', 'Ostrich', 'Otter', 'Owl', 'Ox', 'Oyster', 'Panda', 
         'Parrot', 'Peacock', 'Pelican', 'Penguin', 'Perch', 'Pheasant', 'Pig', 'Pigeon', 'Polarbear', 'Porcupine', 'Quagga', 'Rabbit', 'Raccoon', 'Rat', 'Rattlesnake', 'RedWolf', 'Rooster', 'Seal', 'Sheep', 'Skunk']
+
+conjunction = ['for','and','but','or','yet','so','although','also','despite','therefore','unlike','besides','whereas','because','as for', 'as soon as','as long as','either','whether','then','If','both','how','however','unless','unless', 'until', 'when', 'where', 'while']
