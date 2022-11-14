@@ -21,21 +21,21 @@ pronouns = ['it', 'I', 'you', 'he', 'they', 'we', 'she', 'who', 'them', 'me', 'h
 colors = ['red', 'blue', 'green', 'yellow', 'purple', 'pink', 'orange', 'brown', 'black', 'white', 'gray', 'gold', 'silver', 'navyblue', 'skyblue', 'limegreen', 'teal', 'indigo', 'magenta', 'violet', 'khaki', 'salmon', 
         'crimson', 'lavender', 'plum', 'blueviolet', 'olive', 'cyan', 'maroon', 'beige']
 
-places = ['Airport', 'AmusementPark', 'Bakery', 'Bank', 'Bicyclepath', 'Bookstore', 'Bridge', 'Busstop', 'Cafe', 'Church', 'Cinema', 'Citycenter', 'Clothingstore', 'Court', 'Crossroads', 'Factory', 'Farm', 'Flyover', 'Garage', 
-        'Gym', 'Hospital', 'Hotel', 'Library', 'Market', 'Museum', 'Park', 'Parkinglot', 'Pedestriancrossing', 'Petrolstation', 'Pharmacy', 'Playground', 'Policestation', 'Postoffice', 'Restaurant', 'Roadsign', 'Roundabout', 
-        'School', 'Shoeshop', 'Sidewalk', 'Sportscenter', 'Streetlights', 'Supermarket', 'Swimmingpool', 'Telephonebooth', 'Theater', 'Trafficjam', 'Trafficlights', 'Trainstation', 'Underpass', 'University', 'Zoo']
+places = ['Airport', 'Amusement Park', 'Bakery', 'Bank', 'Bicycle path', 'Bookstore', 'Bridge', 'Bus stop', 'Cafe', 'Church', 'Cinema', 'City center', 'Clothing store', 'Court', 'Crossroads', 'Factory', 'Farm', 'Flyover', 'Garage', 
+        'Gym', 'Hospital', 'Hotel', 'Library', 'Market', 'Museum', 'Park', 'Parking lot', 'Pedestrian crossing', 'Petrol station', 'Pharmacy', 'Playground', 'Police station', 'Post office', 'Restaurant', 'Roadsign', 'Roundabout', 
+        'School', 'Shoe shop', 'Sidewalk', 'Sports center', 'Street lights', 'Supermarket', 'Swimming pool', 'Telephone booth', 'Theater', 'Traffic jam', 'Traffic lights', 'Train station', 'Underpass', 'University', 'Zoo']
 
-jobs = ['InformationSecurityAnalyst', 'NursePractitioner', 'PhysicianAssistant', 'MedicalandHealthServicesManager', 'SoftwareDeveloper', 'DataScientist', 'FinancialManager', 'Cashier', 'Foodpreparationworker', 'Stockingassociate',
-        'Laborer', 'Janitor', 'Constructionworker', 'Bookkeeper', 'Server', 'Novelist', 'Racecardrivinginstructor', 'Foodcritic', 'Eventplanner', 'Sommelier', 'Racecarmechanic', 'Videogamedesigner', 'Voice-overartist', 'Teachingassistant',
-        'Earlychildhoodeducationteacher', 'Soundengineeringtechnician', 'Eventplanner', 'Heavyequipmentoperator', 'Contractor', 'Recruiter', 'Clergy', 'Operatingengineers', 'Teachers', 'Specialeducationteachers', 'Educationadministrators', 
-        'Officesupervisors', 'Physicaltherapists', 'Securityandfinancialservicessalespersons', 'DesignIntern', 'Scientist', 'Technologist', 'CurriculumDeveloper', 'ImplementationSpecialist', 'RockstarTeacher', 'FullStackSoftwareEngineer', 'ChiefRevenueOfficer']
+jobs = ['Information Security Analyst', 'Nurse Practitioner', 'Physician Assistant', 'Software Developer', 'Data Scientist', 'Financial Manager', 'Cashier', 'Food preparation worker', 'Stocking associate',
+        'Laborer', 'Janitor', 'Construction worker', 'Book keeper', 'Server', 'Novelist', 'Race car driver', 'Food critic', 'Event planner', 'Race car mechanic', 'Videogame designer', 'Voice-overartist', 'Teaching assistant',
+        'Childhood education teacher', 'Sound engineering technician', 'Event planner', 'Heavy equipment operator', 'Contractor', 'Recruiter', 'Clergy', 'Operating engineers', 'Teachers', 'Special education teachers', 'Education administrators', 
+        'Office supervisors', 'Physical therapists', 'Security', 'Financial services', 'salespersons', 'Design Intern', 'Scientist', 'Technologist', 'Curriculum Developer', 'Implementation Specialist', 'Rockstar', 'Full Stack Software Engineer', 'Chief Revenue Officer']
 
-animals = ['Aardvark', 'Alligator', 'Alpaca', 'Anaconda', 'Ant', 'Anteater', 'Antelope', 'Aphid', 'Armadillo', 'Asp', 'Ass', 'Baboon', 'Badger', 'BaldEagle', 'Barracuda', 'Bass', 'BassetHound', 'Bat', 'BeardedDragon', 
-        'Beaver', 'Bedbug', 'Bee', 'Bee-eater', 'Bird', 'Bison', 'Blackpanther', 'BlackWidowSpider', 'BlueJay', 'BlueWhale', 'Bobcat', 'Buffalo', 'Butterfly', 'Buzzard', 'Camel', 'CanadaLynx', 'Carp', 'Cat', 'Caterpillar', 
+animals = ['Aardvark', 'Alligator', 'Alpaca', 'Anaconda', 'Ant', 'Anteater', 'Antelope', 'Aphid', 'Armadillo', 'Asp', 'Ass', 'Baboon', 'Badger', 'BaldEagle', 'Barracuda', 'Bass', 'Basset Hound', 'Bat', 'Bearded Dragon', 
+        'Beaver', 'Bedbug', 'Bee', 'Bee-eater', 'Bird', 'Bison', 'Black panther', 'Black Widow Spider', 'Blue Jay', 'Blue Whale', 'Bobcat', 'Buffalo', 'Butterfly', 'Buzzard', 'Camel', 'Canada Lynx', 'Carp', 'Cat', 'Caterpillar', 
         'Catfish', 'Cheetah', 'Chicken', 'Chimpanzee', 'Chipmunk', 'Cobra', 'Cod', 'Condor', 'Cougar', 'Cow', 'Coyote', 'Crab', 'CraneFly', 'Cricket', 'Crocodile', 'Crow', 'Cuckoo', 'Deer', 'Dinosaur', 'Dog', 'Dolphin', 
         'Donkey', 'Dove', 'Dragonfly', 'Duck', 'Eagle', 'Eel', 'Elephant', 'Emu', 'Falcon', 'Ferret', 'Finch', 'Fish', 'Flamingo', 'Flea', 'Fly', 'Fox', 'Frog', 'Goat', 'Goose', 'Gopher', 'Gorilla', 'GuineaPig', 'Hamster', 
-        'Hare', 'Hawk', 'Hippopotamus', 'Horse', 'Hummingbird', 'HumpbackWhale', 'Husky', 'Iguana', 'Impala', 'Kangaroo', 'Lemur', 'Leopard', 'Lion', 'Lizard', 'Llama', 'Lobster', 'Margay', 'Monitorlizard', 'Monkey', 'Moose', 
-        'Mosquito', 'Moth', 'MountainZebra', 'Mouse', 'Mule', 'Sloth', 'Snail', 'Snake', 'Spider', 'Tiger', 'Whale', 'Wolf', 'Wombat', 'Zebra', 'Octopus', 'Orca', 'Ostrich', 'Otter', 'Owl', 'Ox', 'Oyster', 'Panda', 
-        'Parrot', 'Peacock', 'Pelican', 'Penguin', 'Perch', 'Pheasant', 'Pig', 'Pigeon', 'Polarbear', 'Porcupine', 'Quagga', 'Rabbit', 'Raccoon', 'Rat', 'Rattlesnake', 'RedWolf', 'Rooster', 'Seal', 'Sheep', 'Skunk']
+        'Hare', 'Hawk', 'Hippopotamus', 'Horse', 'Humming bird', 'Humpback Whale', 'Husky', 'Iguana', 'Impala', 'Kangaroo', 'Lemur', 'Leopard', 'Lion', 'Lizard', 'Llama', 'Lobster', 'Margay', 'Monitor lizard', 'Monkey', 'Moose', 
+        'Mosquito', 'Moth', 'Mountain Zebra', 'Mouse', 'Mule', 'Sloth', 'Snail', 'Snake', 'Spider', 'Tiger', 'Whale', 'Wolf', 'Wombat', 'Zebra', 'Octopus', 'Orca', 'Ostrich', 'Otter', 'Owl', 'Ox', 'Oyster', 'Panda', 
+        'Parrot', 'Peacock', 'Pelican', 'Penguin', 'Perch', 'Pheasant', 'Pig', 'Pigeon', 'Polar bear', 'Porcupine', 'Quagga', 'Rabbit', 'Raccoon', 'Rat', 'Rattle snake', 'Red Wolf', 'Rooster', 'Seal', 'Sheep', 'Skunk']
 
 conjunction = ['for','and','but','or','yet','so','although','also','despite','therefore','unlike','besides','whereas','because','as for', 'as soon as','as long as','either','whether','then','If','both','how','however','unless','unless', 'until', 'when', 'where', 'while']
