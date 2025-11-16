@@ -1,4 +1,4 @@
-# HandyData
+# Python Handy Data Structs
  A collection of prefilled python data structures saved for quick reuse.
 
 ## Files
